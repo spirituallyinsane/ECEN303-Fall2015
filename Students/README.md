@@ -33,7 +33,7 @@
 * Justin Lewis, justin94lewis
 * Chu Liang, cml1012
 * Trevor Malota, trevormalota
-* Jonathan Moore, spirituallyinsane
+* Jonathan Moore, spirituallyinsane, [spirituallyinsane](https://github.com/spirituallyinsane/)
 * Shannon Morrissey, shannon.morrissey
 * Bijan Nekovei, bnn292
 * Katy Nix, katy.nix
